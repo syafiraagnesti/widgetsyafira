@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">widgetsyafira</string>
+    <string name="nama">Nama</string>
+    <string name="ttl">TTL</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="alamat">Alamat</string>
+    <string name="agama">Agama</string>
+    <string name="laki_laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="islam">Islam</string>
+    <string name="kristem">Kristem</string>
+    <string name="kristen">Kristen</string>
+    <string name="khatolik">Khatolik</string>
+    <string name="hindu">Hindu</string>
+    <string name="budha">Budha</string>
+    <string name="todo">TODO</string>
+</resources>
